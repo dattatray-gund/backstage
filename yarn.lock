@@ -4901,9 +4901,9 @@
   integrity sha512-W6CLUJ2eBMw3Rec70qrsEW0jOm/3twwJv21mrmj2yORiaVmVYGS4sSS5yUwvQc1ZlDLYGPnClVWmUUMagKNsfA==
 
 "@microsoft/microsoft-graph-types@^2.6.0":
-  version "2.8.0"
-  resolved "https://registry.npmjs.org/@microsoft/microsoft-graph-types/-/microsoft-graph-types-2.8.0.tgz#c3b538f99028e8609c5ebf95a494318a8f3d9201"
-  integrity sha512-NDgLn9IhYD/+nCeeGAi1JM7xTFqaM6rkXfLfiC1xvXy48BGBUrAf8fNFq5fkzBvGY8HfjzdPIkrJkfvLL+rzDQ==
+  version "2.16.0"
+  resolved "https://registry.npmjs.org/@microsoft/microsoft-graph-types/-/microsoft-graph-types-2.16.0.tgz#5329890d230c4fdd9f57f39e26dfade0882c94f3"
+  integrity sha512-Qvxv9mpXb/F4xlESEkSLjREHj3dAixTkH3LVO6Ct6sllc5RWrQxPxaSGqW9IpcLU6jI49f2XNSGLotVef3Irdg==
 
 "@microsoft/tsdoc-config@~0.15.2":
   version "0.15.2"
