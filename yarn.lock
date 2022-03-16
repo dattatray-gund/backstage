@@ -19444,9 +19444,9 @@ ldap-filter@^0.3.3:
     assert-plus "^1.0.0"
 
 ldapjs@^2.2.0:
-  version "2.3.0"
-  resolved "https://registry.npmjs.org/ldapjs/-/ldapjs-2.3.0.tgz#999c85f642216709009dc8728e58ac7793888def"
-  integrity sha512-3Rbm3CS7vzTccpP1QnzKCEPok60L/b3BFlWU8r93P5oadCAaqCWEH9Td08crPnw4Ti20W8y0+ZKtFFNzxVu4kA==
+  version "2.3.2"
+  resolved "https://registry.npmjs.org/ldapjs/-/ldapjs-2.3.2.tgz#a599d081519f70462941cc33a50e9354c32f35b7"
+  integrity sha512-FU+GR/qbQ96WUZ2DUb7FzaEybYvv3240wTVPcbsdELB3o4cK92zGVjntsh68siVkLeCmlCcsd/cIQzyGXSS7LA==
   dependencies:
     abstract-logging "^2.0.0"
     asn1 "^0.2.4"
